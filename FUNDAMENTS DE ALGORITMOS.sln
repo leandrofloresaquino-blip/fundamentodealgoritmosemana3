@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEMANA3YORDAN", "SEMANA3YORDAN\SEMANA3YORDAN.csproj", "{D8C58D56-F5A6-49E3-9E90-181F108D58A1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SEMANA1_YORDANPYTHON", "SEMANA1_YORDANPYTHON\SEMANA1_YORDANPYTHON.pyproj", "{113A893C-2F59-4357-9B0F-ABBEAC7CA713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C58D56-F5A6-49E3-9E90-181F108D58A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C58D56-F5A6-49E3-9E90-181F108D58A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C58D56-F5A6-49E3-9E90-181F108D58A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C58D56-F5A6-49E3-9E90-181F108D58A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113A893C-2F59-4357-9B0F-ABBEAC7CA713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113A893C-2F59-4357-9B0F-ABBEAC7CA713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D5A4DB2-4576-4961-8F20-D7D3C945FB23}
+	EndGlobalSection
+EndGlobal

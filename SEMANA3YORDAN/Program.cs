@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,7 +11,7 @@ namespace SEMANA3YORDAN
     {
         static void Main(string[] args)
         {
-            ejer4();
+            ejer5();
             Console.ReadKey(); //detenimiento de consola
         }
         
@@ -69,6 +70,14 @@ namespace SEMANA3YORDAN
 
         static void ejer5()
         {
+            Console.Write("Ingrese un número: ");
+            string num = Console.ReadLine();
+
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+
+            Console.WriteLine("Resto: " + (entero % 2));
+            Console.WriteLine("Decimal: " + (deci / 3));
 
         }
 

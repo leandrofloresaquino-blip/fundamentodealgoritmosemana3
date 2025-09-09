@@ -6,3 +6,11 @@ C:\Users\UPN\Desktop\FA_SEMANA3\FUNDAMENTS DE ALGORITMOS\SEMANA3YORDAN\obj\Debug
 C:\Users\UPN\Desktop\FA_SEMANA3\FUNDAMENTS DE ALGORITMOS\SEMANA3YORDAN\obj\Debug\SEMANA3YORDAN.exe
 C:\Users\UPN\Desktop\FA_SEMANA3\FUNDAMENTS DE ALGORITMOS\SEMANA3YORDAN\obj\Debug\SEMANA3YORDAN.pdb
 C:\Users\UPN\Desktop\FA_SEMANA3\FUNDAMENTS DE ALGORITMOS\SEMANA3YORDAN\obj\Debug\SEMANA3YORDAN.exe.config
+C:\Users\UPN\Desktop\FA4\fundamentodealgoritmosemana3\SEMANA3YORDAN\bin\Debug\SEMANA3YORDAN.exe.config
+C:\Users\UPN\Desktop\FA4\fundamentodealgoritmosemana3\SEMANA3YORDAN\bin\Debug\SEMANA3YORDAN.exe
+C:\Users\UPN\Desktop\FA4\fundamentodealgoritmosemana3\SEMANA3YORDAN\bin\Debug\SEMANA3YORDAN.pdb
+C:\Users\UPN\Desktop\FA4\fundamentodealgoritmosemana3\SEMANA3YORDAN\obj\Debug\SEMANA3YORDAN.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA4\fundamentodealgoritmosemana3\SEMANA3YORDAN\obj\Debug\SEMANA3YORDAN.exe.config
+C:\Users\UPN\Desktop\FA4\fundamentodealgoritmosemana3\SEMANA3YORDAN\obj\Debug\SEMANA3YORDAN.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA4\fundamentodealgoritmosemana3\SEMANA3YORDAN\obj\Debug\SEMANA3YORDAN.exe
+C:\Users\UPN\Desktop\FA4\fundamentodealgoritmosemana3\SEMANA3YORDAN\obj\Debug\SEMANA3YORDAN.pdb

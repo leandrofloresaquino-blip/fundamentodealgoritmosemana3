@@ -16,7 +16,7 @@ namespace SEMANA3YORDAN
         
         static void ejer1()
         {
-            string nombre, carrera;
+            /*string nombre, carrera;
 
             Console.Write("Ingresa su nombre: ");
             nombre = Console.ReadLine();
@@ -24,12 +24,12 @@ namespace SEMANA3YORDAN
             Console.Write("Ingresa su carrera: ");
             carrera = Console.ReadLine();
 
-            Console.WriteLine($"\n{nombre}, bienvenido al curso de fundamentos de algoritmos de la {carrera}");
+            Console.WriteLine($"\n{nombre}, bienvenido al curso de fundamentos de algoritmos de la {carrera}");*/
         }
 
         static void ejer2()
         {
-
+            Console.WriteLine("\"Leandro\"");
         }
 
         static void ejer3()
